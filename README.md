@@ -12,7 +12,11 @@
 
 ###
 
-<p align="center">.....................................................................................................................................................................................................................<br><br>I'm a passionate Front End Developer with a keen interest in creating user-friendly and visually appealing web applications. My journey in the world of coding has been both exciting and rewarding, and I love the constant learning and problem-solving that comes with it.<br><br>.....................................................................................................................................................................................................................</p>
+<h6 align="center">-------------------</h6>
+
+###
+
+<p align="center">I'm a passionate Front End Developer with a keen interest in creating user-friendly and visually appealing web applications. My journey in the world of coding has been both exciting and rewarding, and I love the constant learning and problem-solving that comes with it.</p>
 
 ###
 
@@ -60,10 +64,6 @@
 
 ###
 
-<p align="center">.....................................................................................................................................................................................................................</p>
-
-###
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MdRahi99&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MdRahi99&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -71,7 +71,7 @@
 
 ###
 
-<p align="center">.....................................................................................................................................................................................................................</p>
+<h6 align="center">.......................................................</h6>
 
 ###
 
@@ -86,9 +86,5 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="25" alt="gmail logo"  />
   </a>
 </div>
-
-###
-
-<p align="center">.....................................................................................................................................................................................................................</p>
 
 ###
